@@ -20,6 +20,16 @@ PRODUCT_DEVICE := marble
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := lineage_marble
 
+#Devices Flags:
+MATRIXX_CHIPSET := SM8450
+MATRIXX_BATTERY := 5000mah
+MATRIXX_DISPLAY := 1080x2400
+MATRIXX_BUILD_TYPE := UnOfficial
+MATRIXX_MAINTAINER := RetarReDD
+
+#Build with Gapps:
+WITH_GAPPS := true
+
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
