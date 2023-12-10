@@ -29,7 +29,7 @@ MATRIXX_MAINTAINER := RetarReDD
 
 #Build with Gapps:
 WITH_GAPPS := true
-
+TARGET_DISABLE_EPPE := true
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
